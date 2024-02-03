@@ -1,0 +1,21 @@
+.line {
+    height: 5px;
+    width: calc(50% - 1rem);
+    background-color: #2C3E50;
+}
+.contact {
+    padding: 20vh 0;
+}
+.label {
+    position: absolute;
+    left: 12px;
+    top: 0px;
+    font-size: 18px;
+    color: #1abc9c;
+    opacity: 0;
+    transition: all 0.5s;
+}
+.goUp {
+    top: -37px;
+    opacity: 1;
+}

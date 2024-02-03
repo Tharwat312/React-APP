@@ -1,0 +1,8 @@
+.header_bg {
+    background-color: #1ABC9C;
+}
+.line {
+    height: 5px;
+    width: calc(50% - 1rem);
+    background-color: white;
+}
